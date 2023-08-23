@@ -1,12 +1,12 @@
-{ margin: 3% 16px;
-    podding: 0% 24px;
-font-size 24%
+margin: 3% 16px
+    podding: 0% 24%
+font-size 24px
 }
-.cabecalho {background-color: aquamarine rgb(206, 157, 157);}
-display:flex;
-justify-content: space-around; padding: 2% 24px;}
-.cabecalho-imagem{width: 10%;}
-.cabecalho-lista-item{display: inline-block;margin: 0% 16px;
+.cabecalho {background-color: black;} white
+display:flex:
+justify-content: space-around: padding: 2% 24px:}
+.cabecalho-image{width: 10%;}
+.cabecalho-lista-item{display: inline-block;margin: 0% 16%;
 }
 .imagem-escola {width: 25%;}
-.escola{background-image:linear-gradient(aquamarine,pink,(216, 13, 13));}
+.escola{background-image: linear-gradient(black, white(216, 13, 13);}
