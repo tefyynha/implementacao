@@ -2,11 +2,11 @@ margin: 3% 16px
     podding: 0% 24%
 font-size 24px
 }
-.cabecalho {background-color: rgb(219, 184, 184);} white
+.cabecalho {background-color: black;} white
 display:flex:
 justify-content: space-around: padding: 2% 24px:}
 .cabecalho-image{width: 10%;}
 .cabecalho-lista-item{display: inline-block;margin: 0% 16%;
 }
 .imagem-escola {width: 25%;}
-.escola{background-image: linear-gradient(rgb(247, 232, 232), white(216, 13, 13);}
+.escola{background-image: linear-gradient(black, white(216, 13, 13);}
