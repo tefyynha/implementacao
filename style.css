@@ -5,8 +5,8 @@ font-size: 24px;
 .cabecalho {background-color: aquamarine white;}
 display:flex;
 justify-content: space-around; padding: 2% 24px;}
-.cabecalho-IMAGEM{width: 10%;}
+.cabecalho-imagem{width: 10%;}
 .cabecalho-lista-item{display: inline-block;margin: 0% 16px;
 }
-.IMAGEM-ESCOLA {width: 25%;}
-.ESCOLA{background-image:linear-gradient(aquamarine, PINK(216, 13, 13));}
+.imagem-escola {width: 25%;}
+.escola{background-image:linear-gradient(aquamarine,pink,(216, 13, 13));}
