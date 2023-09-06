@@ -1,12 +1,13 @@
-margin: 3% 16px
-    podding: 0% 24%
-font-size 24px
+{margin: 3% 16px;
+    padding: 0% 24%px;
+font-size:24px
 }
-.cabecalho {background-color: black;} white
-display:flex:
-justify-content: space-around: padding: 2% 24px:}
+.cabecalho {background-color: black;color: white;
+display:flex;
+justify-content: space-around; padding: 2% 24px;}
 .cabecalho-image{width: 10%;}
-.cabecalho-lista-item{display: inline-block;margin: 0% 16%;
+.cabecalho-lista-item{display: inline-block;margin: 0% 16px;
 }
 .imagem-escola {width: 25%;}
-.escola{background-image: linear-gradient(black, white(216, 13, 13);}
+.escola{display: flex;justify-content: center;align-items: center;padding: 24px 0;}
+.escola-titulo{padding: 24px 0;}
