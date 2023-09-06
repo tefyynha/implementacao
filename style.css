@@ -2,7 +2,7 @@
     padding: 0% 24%px;
 font-size:24px
 }
-.cabecalho {background-color: black;color: white;
+.cabecalho {background-color: black;color: rgb(131, 67, 67);
 display:flex;
 justify-content: space-around; padding: 2% 24px;}
 .cabecalho-image{width: 10%;}
